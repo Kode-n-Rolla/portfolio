@@ -29,8 +29,8 @@ portfolio/
 ├─ codehawks/ <-------------------------- in process
 │  ├─ challenge-01-poc/...
 ├─ cryptozombies/
-│  ├─ contracts
-│  ├─ frontend
+│  ├─ contracts/
+│  ├─ frontend/
 │  ├─ README.md
 ├─ cyfrin_updraft_nft_challenges/  <----- in process
 │  ├─ challenge-01/...
