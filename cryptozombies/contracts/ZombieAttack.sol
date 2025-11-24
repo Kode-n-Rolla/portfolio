@@ -5,7 +5,7 @@ pragma solidity ^0.8.24;
 import "./ZombieHelper.sol";
 
 /**
- * @title ZombieAttack (CryptoZombies practice)
+ * @title ZombieAttack
  * @author kode-n-rolla
  * @notice Simple battle mechanics between two zombies.
  * @dev Uses pseudo-randomness; NOT suitable for production (replace with VRF/commit-reveal for real apps).
