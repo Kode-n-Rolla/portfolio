@@ -37,12 +37,11 @@ portfolio/
 ├─ damn-de-fi/  <------------------------ in process
 │  ├─ task-name-1-poc/...
 └─ LICENSE
-
 ```
 
 ## Projects
 
-- **Cryptozombies** - practicing Solidity.
+- **Cryptozombies** - updated Solidity code from `0.5.x` to `^0.8.24`.
 - **Cyfrin Updraft NFT Challenges Solving** - completed challenges with Foundry tests and writeups.
 - **Damn Vulnerable DeFi** - series of audit-style PoCs. Writing about mind process at [Hashnode:Damn De-Fi series articles](https://kode-n-rolla.hashnode.dev/series/damn-vul-defi)
 - **CodeHawks** - targeted PoCs from CodeHawks events; minimal, fork-only tests and short reports. Writing about mind process at [Hashnode:Codehawks series articles](https://kode-n-rolla.hashnode.dev/series/codehawks)
