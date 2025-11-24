@@ -9,13 +9,13 @@ The original course was written for Solidity 0.5.x — I’ve upgraded all contr
 ```
 cryptozombies/
 ├── contracts/
+│ ├── ERC721.sol (Minimal interface)
+│ ├── Ownable.sol (Minimal Ownable)
+│ ├── ZombieAttack.sol
 │ ├── ZombieFactory.sol
 │ ├── ZombieFeeding.sol
 │ ├── ZombieHelper.sol
-│ ├── ZombieAttack.sol
 │ ├── ZombieOwnership.sol
-│ ├── ERC721.sol (Minimal interface)
-│ └── Ownable.sol (Minimal Ownable)
 ├── frontend/ # Simple HTML/JS front-end
 │ ├── index.html
 │ ├── cryptozombies_abi.js
