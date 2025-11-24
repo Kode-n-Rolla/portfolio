@@ -26,16 +26,25 @@ This repository collects my practical work: PoC tests (Foundry), short writeups,
 ```
 portfolio/
 ├─ README.md (this file)
-├─ codehawks/ <-------------------------- in process
+├─ codehawks/ <--------------------------------------- in process
 │  ├─ challenge-01-poc/...
+│  └─ challenge-02-poc/...
 ├─ cryptozombies/
 │  ├─ contracts/
+│  │  ├─ ERC721.sol (min interface)
+│  │  ├─ Ownable.sol (min Ownable)
+│  │  └─ 5 Zombie* contracts with main functionality
 │  ├─ frontend/
-│  ├─ README.md
-├─ cyfrin_updraft_nft_challenges/  <----- in process
+│  │  ├─ cryptozombies_abi.js
+│  │  ├─ index.html
+│  │  └─ web3.min.js
+│  └─ README.md
+├─ cyfrin_updraft_nft_challenges/  <------------------ in process
 │  ├─ challenge-01/...
-├─ damn-de-fi/  <------------------------ in process
+│  └─ challenge-02/...
+├─ damn-de-fi/  <------------------------------------- in process
 │  ├─ task-name-1-poc/...
+│  └─ task-name-2-poc/..
 └─ LICENSE
 ```
 
