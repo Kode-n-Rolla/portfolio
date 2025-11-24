@@ -1,6 +1,6 @@
 # CryptoZombies — Modernized Code Implementation
 
-This repository contains my **updated and refactored** implementation of the [CryptoZombies](https://cryptozombies.io/) Solidity course.  
+This repository contains my **updated and refactored** implementation of the [CryptoZombies](https://cryptozombies.io/) Solidity code.  
 The original course was written for Solidity 0.5.x — I’ve upgraded all contracts to **Solidity ^0.8.24**, added NatSpec documentation, events, safer patterns, and a basic front-end for interaction.
 
 ---
