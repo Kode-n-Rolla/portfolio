@@ -5,7 +5,7 @@ pragma solidity ^0.8.24;
 import "./Ownable.sol";
 
 /**
- * @title ZombieFactory (CryptoZombies practice)
+ * @title ZombieFactory
  * @author kode-n-rolla
  * @notice Simple factory that mints the first zombie for each address.
  * @dev Uses pseudo-random DNA based on keccak256 — predictable and NOT for production.
