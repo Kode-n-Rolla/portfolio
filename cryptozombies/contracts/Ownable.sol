@@ -17,21 +17,21 @@ abstract contract Ownable {
 
     /**
      * @notice Initializes the contract setting the deployer as the initial owner
-    */
+     */
     constructor() {
         _transferOwnership(msg.sender);
     }
 
     /**
      * @notice Returns the address of the current owner
-    */
+     */
     function owner() public view returns (address) {
         return _owner;
     }
-  
+
     /**
      * @notice Ensures that the caller is the contract owner
-    */
+     */
     modifier onlyOwner() {
         require(msg.sender == _owner, "Ownable: caller is not the owner");
         _;
@@ -40,7 +40,7 @@ abstract contract Ownable {
     /**
      * @notice Leaves the contract without owner. It will not be possible to call
      *         `onlyOwner` functions anymore. Use with care!
-    */
+     */
     function renounceOwnership() external onlyOwner {
         _transferOwnership(address(0));
     }
@@ -48,7 +48,7 @@ abstract contract Ownable {
     /**
      * @notice Transfers ownership to a new account (`newOwner`)
      * @param newOwner The address of the new owner
-    */
+     */
     function transferOwnership(address newOwner) external onlyOwner {
         require(newOwner != address(0), "Ownable: new owner is zero address");
         _transferOwnership(newOwner);
@@ -56,7 +56,7 @@ abstract contract Ownable {
 
     /**
      * @dev Internal ownership transfer helper
-    */
+     */
     function _transferOwnership(address newOwner) internal {
         address old = _owner;
         _owner = newOwner;
