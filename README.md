@@ -4,7 +4,7 @@
 
 **Author:** kode-n-rolla
 
-**Focus:** Ethereum / EVM security, lending protocols, smart-contract audits, bug-bounty PoCs, `solidity`
+**Focus:** Ethereum / EVM security, smart-contract audits, bug-bounty PoCs, `solidity`
 
 **Status:** Collection of public PoCs, research notes and workshop code. See each sub-project for individual status and disclosure info.
 
@@ -65,6 +65,6 @@ portfolio/
 
 The whole repo include a LICENSE file. My recommendation: MIT for most PoC/tooling repos. If a PoC was created while the underlying bug was unpatched, that PoC may be private until disclosure is complete.
 
-## Disclaimer example:
+## Disclaimer:
 
 All code is provided for research and educational purposes only. Do not run exploit scripts on live networks. The author is not responsible for misuse.
