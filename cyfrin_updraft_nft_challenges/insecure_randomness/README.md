@@ -11,7 +11,6 @@ nft_challange/
 ├── test/
 │   └── HackSolve.t.sol       # Forge test with PoC exploit
 ├── .env                      # Contains RPC + target data
-├── foundry.toml              # Foundry config
 └── README.md                 # This file
 ```
 
