@@ -27,8 +27,8 @@ This repository collects my practical work: PoC tests (Foundry), short writeups,
 portfolio/
 ├─ README.md (this file)
 ├─ codehawks/ <--------------------------------------- in process
-│  ├─ challenge-01-poc/...
-│  └─ challenge-02-poc/...
+│  ├─ report-01.pdf
+│  └─ report-02.pdf
 ├─ cryptozombies/
 │  ├─ contracts/
 │  │  ├─ ERC721.sol (min interface)
@@ -39,12 +39,10 @@ portfolio/
 │  │  ├─ index.html
 │  │  └─ web3.min.js
 │  └─ README.md
-├─ cyfrin_updraft_nft_challenges/  <------------------ in process
-│  ├─ challenge-01/...
-│  └─ challenge-02/...
-├─ damn-de-fi/  <------------------------------------- in process
-│  ├─ task-name-1-poc/...
-│  └─ task-name-2-poc/..
+├─ cyfrin_updraft_nft_challenges/  
+│  ├─ insecure_randomness/...
+│  ├─ fuzz_testing/...  <------------------ in process
+│  └─ reentrancy/...    <------------------ in process
 └─ LICENSE
 ```
 
@@ -52,8 +50,12 @@ portfolio/
 
 - **Cryptozombies** - updated Solidity code from `0.5.x` to `^0.8.24`.
 - **Cyfrin Updraft NFT Challenges Solving** - completed challenges with Foundry tests and writeups.
-- **Damn Vulnerable DeFi** - series of audit-style PoCs. Writing about mind process at [Hashnode:Damn De-Fi series articles](https://kode-n-rolla.hashnode.dev/series/damn-vul-defi)
-- **CodeHawks** - targeted PoCs from CodeHawks events; minimal, fork-only tests and short reports. Writing about mind process at [Hashnode:Codehawks series articles](https://kode-n-rolla.hashnode.dev/series/codehawks)
+- **CodeHawks** - audit reports
+
+## Articles
+
+- **Damn Vulnerable DeFi** - series of audit-style PoCs. Writing about mind process at [Hashnode:Damn De-Fi](https://kode-n-rolla.hashnode.dev/series/damn-vul-defi) series articles
+- **CodeHawks** - writing about mind process at [Hashnode:Codehawks](https://kode-n-rolla.hashnode.dev/series/codehawks) series articles
 
 ## Responsible disclosure & ethics
 
