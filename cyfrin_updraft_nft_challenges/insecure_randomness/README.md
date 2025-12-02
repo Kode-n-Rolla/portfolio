@@ -5,7 +5,7 @@ This repository contains the full solution to the NFT Challenge ([Lesson Nine](h
 ## 🧰 Project Structure
 
 ```
-nft_challange/
+insecure_randomness/
 ├── src/
 │   └── ILessonNine.sol       # Interface of the challenge contract
 ├── test/
@@ -21,8 +21,8 @@ nft_challange/
 ### 1. Init project
 
 ```bash
-forge init nft_challeange
-cd nft_challeange
+forge init insecure_randomness
+cd insecure_randomness
 ```
 
 ### 2. Create `.env` file
