@@ -1,4 +1,4 @@
-# Portfolio — Web3 Security Research, PoCs & pets
+# Portfolio - Web3 Security Research, PoCs & pets
 
 > Practical, reproducible work demonstrating my smart-contract auditing, exploit prototyping research process and practicing.
 
@@ -17,7 +17,7 @@ This repository collects my practical work: PoC tests (Foundry), short writeups,
 
 ## Why this repo
 - Demonstrates *reproducible* research, not just theoretical notes.  
-- Shows the *process* — triage → hypothesis → forked simulation → PoC → mitigations.  
+- Shows the *process* - triage → hypothesis → forked simulation → PoC → mitigations.  
 - Useful for validate skills quickly.
 
 ---
