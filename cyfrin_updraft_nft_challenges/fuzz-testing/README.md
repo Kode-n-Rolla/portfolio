@@ -30,19 +30,22 @@ To solve the challenge, we must:
 
 ## 📂 Project Structure
 ```
-src/
-  12-Lesson.sol            # Challenge contract
-  12-LessonHelper.sol      # Helper contract with hellFunc
-  ...And other files from  # For testing, download by yourself
-  ...target contract       
-  SolverContract.sol       # Minimal solver card
-test/
-  FuzzHellFunc.t.sol       # Fuzzing test to discover reverting number
-script/
-  DeployLesson.s.sol       # Deployment script for LessonTwelve
-  SolveWith99.s.sol        # Solve script using discovered number
-  DirectAttack.s.sol       # Direct solve attempt (POC)
-
+fuzz-testing/
+├── src/
+│   ├── 12-Lesson.sol            # Challenge contract
+│   ├── 12-LessonHelper.sol      # Helper contract with hellFunc
+│   ├── ...And other files from  # For testing, download by yourself
+│   ├── ...target contract       
+│   └──  SolverContract.sol       # Minimal solver card
+├── test/
+│   └── FuzzHellFunc.t.sol       # Fuzzing test to discover reverting number
+├── script/
+│   ├── DeployLesson.s.sol       # Deployment script for LessonTwelve
+│   ├── SolveWith99.s.sol        # Solve script using discovered number
+│   └── DirectAttack.s.sol       # Direct solve attempt (POC)
+├── .env
+├── foundry.toml
+└── README.md
 ```
 
 ## ⚙️ Setup
