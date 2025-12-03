@@ -14,6 +14,25 @@ Target challenge contract (S4) 👉 <a href='https://sepolia.etherscan.io/addres
 - `src/dev/TestNFT.sol`, `src/dev/OzRegistry.sol` - local/dev helpers.
 - `script/LocalAnvil.s.sol` - local integration script (Anvil).
 
+## Repo structure
+I didn`t copy target contracts. This repo contains only my own files. You should copy target contracts by yourself.
+```
+reentrancy/
+├── script
+│   └── LocalAnvil.s.sol
+├── src
+│   ├── dev
+│   │   ├── OzRegistry.sol
+│   │   └── TestNFT.sol
+│   └── SolveContract.sol
+├── test
+|   └── S4_Solve.t.sol
+├── .env
+└── README.md
+```
+
+---
+
 ### Why the bug exists (short)
 
 1. <b>Owner check that trusts the caller:</b>
@@ -147,22 +166,3 @@ cast call 0x31801c3e09708549c1b2c9e1cfbf001399a1b9fa "ownerOf(uint256)(address)"
 - Avoid external calls between state updates and validation (or use a reentrancy guard).
 - Use <a href='https://docs.chain.link/vrf'>Chainlink VRF</a> for random numbers; don’t rely on timestamp/prevrandao for critical decisions.
 - Don’t trust msg.sender.owner(): the callee controls its code. If identity matters, redesign the trust boundary.
-
-## Repo structure
-I didn`t copy target contracts. This repo contains only my own files. You should copy target contracts by yourself.
-```
-reentrancy/
-├── script
-│   └── LocalAnvil.s.sol
-├── src
-│   ├── dev
-│   │   ├── OzRegistry.sol
-│   │   └── TestNFT.sol
-│   └── SolveContract.sol
-├── test
-|   └── S4_Solve.t.sol
-├── .env
-└── README.md
-```
-
-
