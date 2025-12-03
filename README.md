@@ -27,8 +27,7 @@ This repository collects my practical work: PoC tests (Foundry), short writeups,
 portfolio/
 ├─ README.md (this file)
 ├─ codehawks/ <--------------------------------------- in process
-│  ├─ report-01.pdf
-│  └─ report-02.pdf
+│  └─ contains x (e.g. in hex) reports.pdf
 ├─ cryptozombies/
 │  ├─ contracts/
 │  │  ├─ ERC721.sol (min interface)
