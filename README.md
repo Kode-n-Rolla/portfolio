@@ -40,9 +40,9 @@ portfolio/
 │  │  └─ web3.min.js
 │  └─ README.md
 ├─ cyfrin_updraft_nft_challenges/  
-│  ├─ insecure_randomness/...
-│  ├─ fuzz_testing/...  <------------------ in process
-│  └─ reentrancy/...    <------------------ in process
+│  ├─ insecure_randomness/
+│  ├─ fuzz_testing/
+│  └─ reentrancy/
 └─ LICENSE
 ```
 
