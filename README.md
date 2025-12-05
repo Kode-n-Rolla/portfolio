@@ -62,10 +62,6 @@ portfolio/
 - Public PoCs are sanitized to be fork-only (reproducible in a local fork) and include a clear warning.
 - If you discover a 0-day via this repo or related research, contact the project maintainers first and follow the vendor’s bounty/disclosure process.
 
-## License
-
-The whole repo include a LICENSE file. My recommendation: MIT for most PoC/tooling repos. If a PoC was created while the underlying bug was unpatched, that PoC may be private until disclosure is complete.
-
 ## Disclaimer:
 
 All code is provided for research and educational purposes only. Do not run exploit scripts on live networks. The author is not responsible for misuse.
