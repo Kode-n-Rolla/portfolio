@@ -30,13 +30,7 @@ portfolio/
 │  └─ contains >= 0 reports.pdf
 ├─ cryptozombies/
 │  ├─ contracts/
-│  │  ├─ ERC721.sol (min interface)
-│  │  ├─ Ownable.sol (min Ownable)
-│  │  └─ 5 Zombie* contracts with main functionality
 │  ├─ frontend/
-│  │  ├─ cryptozombies_abi.js
-│  │  ├─ index.html
-│  │  └─ web3.min.js
 │  └─ README.md
 ├─ cyfrin_updraft_nft_challenges/  
 │  ├─ insecure_randomness/
