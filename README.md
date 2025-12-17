@@ -2,7 +2,7 @@
 
 > Practical, reproducible work demonstrating my smart-contract auditing, exploit prototyping research process and practicing.
 
-**Author:** kode-n-rolla
+**Author:** `kode-n-rolla`
 
 **Focus:** Ethereum / EVM security, smart-contract audits, bug-bounty PoCs, `solidity`
 
