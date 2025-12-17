@@ -57,6 +57,6 @@ portfolio/
 - Public PoCs are sanitized to be fork-only (reproducible in a local fork) and include a clear warning.
 - If you discover a 0-day via this repo or related research, contact the project maintainers first and follow the vendor’s bounty/disclosure process.
 
-## Disclaimer:
+## Disclaimer
 
 All code is provided for research and educational purposes only. Do not run exploit scripts on live networks. The author is not responsible for misuse.
