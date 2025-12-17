@@ -1,4 +1,6 @@
-# Report Audits from `Codehawks::FirstFlights` events
+# Audit Reports - `Codehawks::FirstFlights`
 
-- Last Man Standing - Rank #1468 [[read](https://github.com/Kode-n-Rolla/portfolio/blob/main/codehawks/last-man-standing.pdf)]
-- Secret Vault on Aptos - Rank #901 [[read](https://github.com/Kode-n-Rolla/portfolio/blob/main/codehawks/secret-vault-on-aptos.pdf)]
+Personal archive of security audit reports.
+
+- Last Man Standing (`Solidity`) [[read](https://github.com/Kode-n-Rolla/portfolio/blob/main/codehawks/last-man-standing.pdf)] - Rank #1468
+- Secret Vault (`Aptos / Move`) [[read](https://github.com/Kode-n-Rolla/portfolio/blob/main/codehawks/secret-vault-on-aptos.pdf)] - Rank #901
