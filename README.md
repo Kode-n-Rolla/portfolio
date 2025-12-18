@@ -27,7 +27,7 @@ This repository collects my practical work: PoC tests (Foundry), short writeups,
 portfolio/
 ├─ README.md (this file)
 ├─ codehawks/
-│  ├─ >= 5 reports.pdf
+│  ├─ >= 6 reports.pdf
 │  └─ README.md
 ├─ cryptozombies/
 │  ├─ contracts/
