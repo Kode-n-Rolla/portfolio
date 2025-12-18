@@ -7,3 +7,4 @@ Personal archive of security audit reports.
 - Pizza Drop (`Aptos / Move`) [[read](https://github.com/Kode-n-Rolla/portfolio/blob/main/codehawks/pizza-drop.pdf)] → Rank #340 (Top 2 of participants)
 - One Shot: Reloaded (`Aptos / Move`) [[read](https://github.com/Kode-n-Rolla/portfolio/blob/main/codehawks/one-shot.pdf)] → Rank #166
 - Bid Beasts (`Solidity`) [[read](https://github.com/Kode-n-Rolla/portfolio/blob/main/codehawks/bid-beasts.pdf)] → Rank #135
+- RaiseBox Faucet (`Solidity`) [[read](https://github.com/Kode-n-Rolla/portfolio/blob/main/codehawks/raisebox-faucet.pdf)] → Rank #115
