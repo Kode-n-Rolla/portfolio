@@ -13,3 +13,4 @@ Personal archive of security audit reports.
 | Bid Beasts              | Solidity              | [view](https://github.com/Kode-n-Rolla/portfolio/blob/main/codehawks/bid-beasts.pdf)      | #135 |
 | RaiseBox Faucet         | Solidity              | [view](https://github.com/Kode-n-Rolla/portfolio/blob/main/codehawks/raisebox-faucet.pdf)      | #115 |
 | BriVault                | Solidity              | [view](https://github.com/Kode-n-Rolla/portfolio/blob/main/codehawks/bri-vault.pdf)      | #82 |
+| Token-0x                | Solidity / Yul        | [view](https://github.com/Kode-n-Rolla/portfolio/blob/main/codehawks/token-0x.pdf)      | #64 |
