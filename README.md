@@ -40,7 +40,7 @@ portfolio/
 └─ LICENSE
 ```
 
-## Projects
+## Projects, PoC`s, reports, researching
 
 - **Cryptozombies** - updated Solidity code from `0.5.x` to `^0.8.24`.
 - **Cyfrin Updraft NFT Challenges Solving** - completed challenges with Foundry tests and writeups.
