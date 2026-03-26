@@ -38,14 +38,14 @@ portfolio/
 
 ## Projects, PoC`s, reports, researching
 
-- **Zombie game** - Modern Foundry-based zombie game rebuild with OpenZeppelin, security-oriented tests, and compact MVP architecture..
-- **Cyfrin Updraft NFT Challenges Solving** - completed challenges with Foundry tests and writeups.
-- **CodeHawks** - audit reports
+- [**Zombie game**](https://github.com/Kode-n-Rolla/zombie-game) - Modern Foundry-based zombie game rebuild with `OpenZeppelin`, security-oriented tests, and compact MVP architecture..
+- [**Cyfrin Updraft NFT Challenges Solving**](https://github.com/Kode-n-Rolla/portfolio/tree/main/cyfrin_updraft_nft_challenges) - completed challenges with Foundry tests and writeups.
+- [**CodeHawks**](https://github.com/Kode-n-Rolla/portfolio/tree/main/codehawks) - audit reports
 
 ## Articles
 
-- **Damn Vulnerable DeFi** - series of audit-style PoCs. Writing about mind process at [Hashnode:Damn De-Fi](https://kode-n-rolla.hashnode.dev/series/damn-vul-defi) series articles
-- **CodeHawks** - writing about mind process at [Hashnode:Codehawks](https://kode-n-rolla.hashnode.dev/series/codehawks) series articles
+- **Damn Vulnerable DeFi** - series of audit-style PoCs. Writing about mind process at [Hashnode::Damn De-Fi](https://kode-n-rolla.hashnode.dev/series/damn-vul-defi) series articles
+- **CodeHawks** - writing about mind process at [Hashnode::Codehawks](https://kode-n-rolla.hashnode.dev/series/codehawks) series articles
 
 ## Responsible disclosure & ethics
 
