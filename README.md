@@ -29,10 +29,6 @@ portfolio/
 ├─ codehawks/
 │  ├─ >= 11 reports.pdf
 │  └─ README.md
-├─ cryptozombies/
-│  ├─ contracts/
-│  ├─ frontend/
-│  └─ README.md
 ├─ cyfrin_updraft_nft_challenges/  
 │  ├─ insecure_randomness/
 │  ├─ fuzz_testing/
@@ -42,7 +38,7 @@ portfolio/
 
 ## Projects, PoC`s, reports, researching
 
-- **Cryptozombies** - updated Solidity code from `0.5.x` to `^0.8.24`.
+- **Zombie game** - Modern Foundry-based zombie game rebuild with OpenZeppelin, security-oriented tests, and compact MVP architecture..
 - **Cyfrin Updraft NFT Challenges Solving** - completed challenges with Foundry tests and writeups.
 - **CodeHawks** - audit reports
 
