@@ -40,7 +40,7 @@ portfolio/
 
 - [**Zombie game**](https://github.com/Kode-n-Rolla/zombie-game) - Modern Foundry-based zombie game rebuild with `OpenZeppelin`, security-oriented tests, and compact MVP architecture..
 - [**Cyfrin Updraft NFT Challenges Solving**](https://github.com/Kode-n-Rolla/portfolio/tree/main/cyfrin_updraft_nft_challenges) - completed challenges with Foundry tests and writeups.
-- [**CodeHawks**](https://github.com/Kode-n-Rolla/portfolio/tree/main/codehawks) - audit reports
+- [**CodeHawks**](https://github.com/Kode-n-Rolla/portfolio/blob/main/codehawks/README.md) - audit reports
 
 ## Articles
 
