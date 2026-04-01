@@ -7,7 +7,7 @@ Start from latest
 
 | # | Contest Name            | Language / Stack      | Report Link | Rank |
 |---|-------------------------|-----------------------|-------------|------|
-| 12 | NFT Dealers      | Solidity        | [![Report](https://img.shields.io/badge/Report-PDF-purple?sytle=flat\&logo=adobeacrobatreader)](https://github.com/Kode-n-Rolla/portfolio/blob/main/codehawks/nft-dealers.pdf )         | 34 |
+| 12 | NFT Dealers      | Solidity        | [![Report](https://img.shields.io/badge/Report-PDF-purple?sytle=flat\&logo=adobeacrobatreader)](https://github.com/Kode-n-Rolla/portfolio/blob/main/codehawks/nft-dealers.pdf )         | #34 |
 | 11 | Santa`s List     | Solidity        | [![Report](https://img.shields.io/badge/Report-PDF-red?sytle=flat\&logo=adobeacrobatreader)](https://github.com/Kode-n-Rolla/portfolio/blob/main/codehawks/Santas-List.pdf)      | #36 |
 | 10 | Puppy Raffle     | Solidity        | [![Report](https://img.shields.io/badge/Report-PDF-pink?sytle=flat\&logo=adobeacrobatreader)](https://github.com/Kode-n-Rolla/portfolio/blob/main/codehawks/PuppyRaffle.pdf)      | #47 |
 | 9 | MultiSig Timelock       | Solidity        | [![Report](https://img.shields.io/badge/Report-PDF-white?sytle=flat\&logo=adobeacrobatreader)](https://github.com/Kode-n-Rolla/portfolio/blob/main/codehawks/multiSig-timelock.pdf)      | #61 |
