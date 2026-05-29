@@ -1,10 +1,10 @@
-# Portfolio - Web3 Security Research, PoCs & pets
+# Portfolio - Web3 Security Research, PoCs & projects
 
-> Practical, reproducible work demonstrating my smart-contract auditing, exploit prototyping research process and practicing.
+> Practical, reproducible work demonstrating my smart-contract auditing, exploit prototyping research process, build projects and practicing.
 
 **Author:** `kode-n-rolla`
 
-**Focus:** Ethereum / EVM security, smart-contract audits, bug-bounty PoCs, `solidity`
+**Focus:** Solana / SVM, `rust`, build protocols, Ethereum / EVM security, smart-contract audits, bug-bounty PoCs, `solidity`
 
 **Status:** Collection of public PoCs, research notes and workshop code. See each sub-project for individual status and disclosure info.
 
@@ -38,9 +38,11 @@ portfolio/
 
 ## Projects, PoC`s, reports, researching
 
+- [**shuka**](https://github.com/Kode-n-Rolla/shuka) - Rust CLI tool for fetching verified smart contract source code from blockchain explorers.
+- [**Solana Token Risk Lens**](https://github.com/Kode-n-Rolla/solana-token-risk-lens) - Explainable Solana token risk dashboard built with Rust, TypeScript and React
 - [**Zombie game**](https://github.com/Kode-n-Rolla/zombie-game) - Modern Foundry-based zombie game rebuild with `OpenZeppelin`, security-oriented tests, and compact MVP architecture..
 - [**Cyfrin Updraft NFT Challenges Solving**](https://github.com/Kode-n-Rolla/portfolio/tree/main/cyfrin_updraft_nft_challenges) - completed challenges with Foundry tests and writeups.
-- [**CodeHawks**](https://github.com/Kode-n-Rolla/portfolio/blob/main/codehawks/README.md) - audit reports
+- [**Audit Reports**](https://github.com/Kode-n-Rolla/portfolio/blob/main/codehawks/README.md) from contests
 
 ## Articles
 
