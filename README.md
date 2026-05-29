@@ -4,7 +4,10 @@
 
 **Author:** `kode-n-rolla`
 
-**Focus:** Solana / SVM, `rust`, build protocols, Ethereum / EVM security, smart-contract audits, bug-bounty PoCs, `solidity`
+**Focus on:**
+- Solana / SVM, `rust`
+- Ethereum / EVM security, `solidity`
+- build protocols, smart-contract audits, bug-bounty PoCs
 
 **Status:** Collection of public PoCs, research notes and workshop code. See each sub-project for individual status and disclosure info.
 
