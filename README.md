@@ -4,9 +4,9 @@
 
 **Author:** `kode-n-rolla`
 
-**Focus on:**
+**Focus on *sec/dev*:**
 - Solana / SVM, `rust`
-- Ethereum / EVM security, `solidity`
+- Ethereum / EVM, `solidity`
 - build protocols, smart-contract audits, bug-bounty PoCs
 
 **Status:** Collection of public PoCs, research notes and workshop code. See each sub-project for individual status and disclosure info.
@@ -46,6 +46,8 @@ portfolio/
 - [**Zombie game**](https://github.com/Kode-n-Rolla/zombie-game) - Modern Foundry-based zombie game rebuild with `OpenZeppelin`, security-oriented tests, and compact MVP architecture..
 - [**Cyfrin Updraft NFT Challenges Solving**](https://github.com/Kode-n-Rolla/portfolio/tree/main/cyfrin_updraft_nft_challenges) - completed challenges with Foundry tests and writeups.
 - [**Audit Reports**](https://github.com/Kode-n-Rolla/portfolio/blob/main/codehawks/README.md) from contests
+- Engineering Lab:
+  - [Solanotes](https://gitlab.com/kode-n-rolla/solanotes) - A compact Solana/Anchor notes program focused on correct PDA design, ownership checks, deterministic account derivation, and testable state transitions.
 
 ## Articles
 
