@@ -48,6 +48,7 @@ portfolio/
 - [**Audit Reports**](https://github.com/Kode-n-Rolla/portfolio/blob/main/codehawks/README.md) from contests
 - Engineering Lab:
   - [Solanotes](https://gitlab.com/kode-n-rolla/solanotes) - A compact Solana/Anchor notes program focused on correct PDA design, ownership checks, deterministic account derivation, and testable state transitions.
+  - [Escrovia](https://gitlab.com/kode-n-rolla/escrovia) - Anchor-based Solana escrow program for trust-minimized SPL token swaps.
 
 ## Articles
 
